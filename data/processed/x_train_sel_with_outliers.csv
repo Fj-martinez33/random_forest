@@ -1,4 +1,4 @@
-,Pregnancies,Glucose,BloodPressure,Insulin,BMI,DiabetesPedigreeFunction,Age
+Pregnancies,Glucose,BloodPressure,Insulin,BMI,DiabetesPedigreeFunction,Age
 0,2.0,84.0,0.0,0.0,0.0,0.304,21.0
 1,9.0,112.0,82.0,0.0,28.2,1.282,50.0
 2,1.0,139.0,46.0,83.0,28.7,0.654,22.0
